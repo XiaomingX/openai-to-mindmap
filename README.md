@@ -169,3 +169,6 @@ const getPrompt = (useLocalModel: boolean, topic: string, nodeId?: string) => {
   return `${basePrompt}${topic}`;
 };
 ```
+
+## 参考资料（原型Demo）
+ - [learn-thing](https://github.com/aotakeda/learn-thing)
